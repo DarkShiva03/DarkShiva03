@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkShiva03
-- 👀 I’m interested in CV and AI.
+- 👀 I’m interested in AI, Data science and OS.
 - 🌱 I’m currently learning C++
 
 <!---
